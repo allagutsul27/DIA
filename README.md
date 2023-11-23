@@ -4,7 +4,7 @@ DIA is a web project crafted with HTML and CSS, employing the BEM methodology fo
 
 ## Project description
 
-DIA is a sleek and modern single-page website showcasing Bose products. Leveraging the latest web technologies, the site stands out not only for its stylish design but also for its functional features that ensure users have an unforgettable and engaging experience.
+DIA is a sleek and modern single-page website showcasing DIA products. Leveraging the latest web technologies, the site stands out not only for its stylish design but also for its functional features that ensure users have an unforgettable and engaging experience.
 
 ## Technologies and tools
 
