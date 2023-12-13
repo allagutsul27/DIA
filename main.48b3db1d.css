@@ -160,7 +160,7 @@ video {
         margin-right: 130px; } }
   .header__menu-icon {
     display: inline-block;
-    background: url(/Menu.80a0b0f3.svg) center no-repeat;
+    background: url(./Menu.80a0b0f3.svg) center no-repeat;
     width: 24px;
     height: 24px;
     background-size: cover; }
@@ -355,7 +355,7 @@ video {
     display: block; }
   .menu__close-icon {
     display: block;
-    background: url(/close-icon.93eac4b5.svg) center no-repeat;
+    background: url(./close-icon.93eac4b5.svg) center no-repeat;
     width: 32px;
     height: 32px; }
   .menu__item:not(:last-child) {
@@ -834,10 +834,10 @@ video {
   @media (min-width: 640px) {
     .components {
       padding: 200px 0;
-      background: url(/Shapes2.8e372ba8.png) center no-repeat; } }
+      background: url(./Shapes2.8e372ba8.png) center no-repeat; } }
   @media (min-width: 800px) {
     .components {
-      background: url(/Shapes.9cb2f3c3.png) center no-repeat; } }
+      background: url(./Shapes.9cb2f3c3.png) center no-repeat; } }
   .components__title {
     font-size: 44px;
     line-height: 120%;
